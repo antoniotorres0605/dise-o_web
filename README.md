@@ -5,4 +5,7 @@
     - Le da formato a los textos
   - Live Server 
     - Ejecutar páginas HTML en nuestro navegador web
-- 
+  - Path Intellisense
+    - Seleccionar los recursos que están en diferentes carpetas
+  - Live Server Preview
+    - Visualizar el código html conforme lo vayamos escribiendo
