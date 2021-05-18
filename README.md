@@ -9,3 +9,4 @@
     - Seleccionar los recursos que están en diferentes carpetas
   - Live Server Preview
     - Visualizar el código html conforme lo vayamos escribiendo
+![](https://image.flaticon.com/icons/png/512/29/29064.png)
