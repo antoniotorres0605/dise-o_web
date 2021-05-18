@@ -9,5 +9,4 @@
     - Seleccionar los recursos que están en diferentes carpetas
   - Live Server Preview
     - Visualizar el código html conforme lo vayamos escribiendo
-
-<a href="url"><img src="https://image.flaticon.com/icons/png/512/29/29064.png" align="left" height="48" width="48" ></a>
+<img src="https://image.flaticon.com/icons/png/512/29/29064.png" align="left" height="48" width="48" >
