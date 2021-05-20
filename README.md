@@ -29,3 +29,24 @@
     <p>Mi primer pagina HTML</p> <!--Parrafo-->
   </body>
 </html>
+```
+
+### Atajos
+- Para colocar todo el esqueleto de HTML en Visual Studio Code, se debe hacer colocando la letra "l" y luego tabulador, dando como resultado el siguiente código esqueleto de HTML.
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--Compatibilidad con navegador Internet Explorer-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--Sirve para hacer responsiva la página Web-->
+    <title>Segunda Página HTML</title>
+  </head>
+  <body>
+    <h1>HTML</h1>
+    <p>Mi primera página HTML</p>
+  </body>
+</html>
+```
