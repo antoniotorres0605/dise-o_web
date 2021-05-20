@@ -9,7 +9,7 @@
     - Seleccionar los recursos que están en diferentes carpetas
   - Live Server Preview
     - Visualizar el código html conforme lo vayamos escribiendo
-<img src="https://image.flaticon.com/icons/png/512/29/29064.png" align="left" height="48" width="48" >
+<img src="https://image.flaticon.com/icons/png/512/29/29064.png" align="left" height="48" width="48" />
 ##Introducción
 ### Etiquetas HTML
 - Usa símbolos de picoparéntesis y dentro de las mismas va las etiquetas
