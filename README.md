@@ -32,7 +32,7 @@
 ```
 
 ### Atajos
-- Para colocar todo el esqueleto de HTML en Visual Studio Code, se debe hacer colocando la letra "l" y luego tabulador, dando como resultado el siguiente código esqueleto de HTML.
+- Para colocar todo el esqueleto de HTML en Visual Studio Code, se debe hacer colocando el símbolo "!" y luego tabulador, dando como resultado el siguiente código esqueleto de HTML.
 ```html
 <!DOCTYPE html>
 <html>
