@@ -14,7 +14,7 @@
 - Usa símbolos de picoparéntesis y dentro de las mismas va las etiquetas "<>"
 - Se cierran de diferentes maneras:
   - Con la misma etiqueta pero con una diagonal al inicio
-    - "<html></html>"
+    - ```html <html></html> ```
 
 ## Primer Página HTML
 ```html
