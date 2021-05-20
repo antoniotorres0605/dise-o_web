@@ -15,6 +15,7 @@
 - Se cierran de diferentes maneras:
   - Con la misma etiqueta pero con una diagonal al inicio
     - ```html <html></html>``` 
+  - Con la diagonal antes del picoparéntesis de cierre
     - ```html <meta charset="UTF-8" />```
 
 ## Primer Página HTML
