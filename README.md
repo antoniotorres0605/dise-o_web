@@ -11,9 +11,10 @@
     - Visualizar el código html conforme lo vayamos escribiendo
 ## Introducción
 ### Etiquetas HTML
-- Usa símbolos de picoparéntesis y dentro de las mismas va las etiquetas
-- "<>"
-- Se cierran de diferentes maneras
+- Usa símbolos de picoparéntesis y dentro de las mismas va las etiquetas "<>"
+- Se cierran de diferentes maneras:
+  - Con la misma etiqueta pero con una diagonal al inicio
+    - "<html></html>"
 
 ## Primer Página HTML
 ```html
