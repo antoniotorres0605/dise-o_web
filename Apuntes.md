@@ -54,6 +54,15 @@
 ```
 
 ### Titulos HTML
-- El encabezado H1 se ve de la siguiente forma
+- El encabezado H1 se ve de la siguiente forma. Los títulos agregan saltos de línea automático
   <h1>Titulo h1</h1>
+- El encabezado H2 se ve de la siguiente forma.
   <h2>Titulo h2</h2>
+- El encabezado H3 se ve de la siguiente forma.
+  <h3>Titulo h3</h3>
+- El encabezado H4 se ve de la siguiente forma.
+  <h4>Titulo h4</h4>
+- El encabezado H5 se ve de la siguiente forma.
+  <h5>Titulo h5</h5>
+- El encabezado H6 se ve de la siguiente forma.
+  <h6>Titulo h6</h6>
